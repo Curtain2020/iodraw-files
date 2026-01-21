@@ -124,7 +124,7 @@
         <mxCell id="jLpQd-FUF01y4rBaPhpn-125" value="summary1: ......&lt;br&gt;summary2: ......&lt;br&gt;summary3: ......&lt;br&gt;summary4: ......&lt;br&gt;......" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="223" y="329" width="94" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="jLpQd-FUF01y4rBaPhpn-126" value="cluster：1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;sketch=0;" parent="1" vertex="1">
+        <mxCell id="jLpQd-FUF01y4rBaPhpn-126" value="聚类：1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="210" y="282" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jLpQd-FUF01y4rBaPhpn-127" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="jLpQd-FUF01y4rBaPhpn-8" edge="1">
