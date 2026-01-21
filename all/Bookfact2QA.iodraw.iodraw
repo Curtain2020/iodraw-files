@@ -143,8 +143,8 @@
             <mxPoint x="924" y="185" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jLpQd-FUF01y4rBaPhpn-135" value="Bloom&#39;s Taxonomy&lt;br&gt;&amp;nbsp;Prompt" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="440" y="220" width="110" height="32" as="geometry" />
+        <mxCell id="jLpQd-FUF01y4rBaPhpn-135" value="&lt;span style=&quot;background-color: initial;&quot;&gt;布鲁姆分类法&lt;/span&gt;&lt;div&gt;提示&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="216" width="90" height="41" as="geometry" />
         </mxCell>
         <mxCell id="jLpQd-FUF01y4rBaPhpn-136" value="&lt;font color=&quot;#000000&quot;&gt;&amp;nbsp; &amp;nbsp;Questions&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;labelBackgroundColor=none;sketch=0;align=left;fontColor=#ffffff;fillColor=#67AB9F;" parent="1" vertex="1">
           <mxGeometry x="692" y="139" width="88" height="60" as="geometry" />
