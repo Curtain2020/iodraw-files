@@ -313,7 +313,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PIYKrBh0iZBxKcLEnjev-2" value="教材数据预处理阶段" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="77" y="398" width="221" height="30" as="geometry" />
+          <mxGeometry x="119" y="399" width="221" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
