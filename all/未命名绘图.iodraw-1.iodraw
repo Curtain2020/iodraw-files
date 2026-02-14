@@ -10,6 +10,9 @@
         <mxCell id="Z_srWrKYihYJOAj4rwDz-2" value="📥 阶段1: 意图识别" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="515" y="140" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Z_srWrKYihYJOAj4rwDz-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z_srWrKYihYJOAj4rwDz-3" target="Z_srWrKYihYJOAj4rwDz-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Z_srWrKYihYJOAj4rwDz-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="170" width="100" height="40" as="geometry" />
         </mxCell>
