@@ -7,8 +7,8 @@
         <mxCell id="Z_srWrKYihYJOAj4rwDz-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="470" y="140" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Z_srWrKYihYJOAj4rwDz-2" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="470" y="320" width="60" height="30" as="geometry" />
+        <mxCell id="Z_srWrKYihYJOAj4rwDz-2" value="📥 阶段1: 意图识别" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="150" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
