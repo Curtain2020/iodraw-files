@@ -19,10 +19,10 @@
         <mxCell id="Z_srWrKYihYJOAj4rwDz-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z_srWrKYihYJOAj4rwDz-6" target="Z_srWrKYihYJOAj4rwDz-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Z_srWrKYihYJOAj4rwDz-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Z_srWrKYihYJOAj4rwDz-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="520" y="230" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Z_srWrKYihYJOAj4rwDz-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Z_srWrKYihYJOAj4rwDz-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="520" y="290" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
