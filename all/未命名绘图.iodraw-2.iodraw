@@ -32,7 +32,7 @@
           <mxGeometry x="240" y="767" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nFc40yfXUyiPPUYHa5VC-11" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;系统 (Tool Return):&lt;/font&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp;{&quot;node_name&quot;: &quot;比值的定义&quot;, &quot;status&quot;: [0, 0, 0]}&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" vertex="1" parent="1">
-          <mxGeometry x="250" y="370" width="230" height="40" as="geometry" />
+          <mxGeometry x="240" y="840" width="230" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
