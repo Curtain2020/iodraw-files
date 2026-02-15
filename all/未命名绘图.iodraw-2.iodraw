@@ -29,7 +29,7 @@
           <mxGeometry x="240" y="670" width="230" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nFc40yfXUyiPPUYHa5VC-10" value="&lt;div style=&quot;text-align: right;&quot;&gt;&lt;span style=&quot;font-size: 10px; background-color: initial;&quot;&gt;学生 (Tool Call)：&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;recall_knowledge_vector_tool({&quot;name&quot;: &quot;比值的定义&quot;})&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=11.07;dy=16;size=5;boundedLbl=1;flipH=1;fontSize=9;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="260" y="560" width="230" height="60" as="geometry" />
+          <mxGeometry x="240" y="767" width="230" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
