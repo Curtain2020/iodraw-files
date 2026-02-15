@@ -101,7 +101,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z_srWrKYihYJOAj4rwDz-34" value="&lt;div style=&quot;line-height: 22px;&quot;&gt;&lt;font size=&quot;1&quot; face=&quot;JetBrains Mono, Menlo, Monaco, Courier New, monospace&quot; color=&quot;#1a1a1a&quot;&gt;&lt;span style=&quot;white-space: pre; font-size: 9px;&quot;&gt;5. 返回记忆&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Z_srWrKYihYJOAj4rwDz-34" value="&lt;div style=&quot;line-height: 22px;&quot;&gt;&lt;font size=&quot;1&quot; face=&quot;JetBrains Mono, Menlo, Monaco, Courier New, monospace&quot; color=&quot;#1a1a1a&quot;&gt;&lt;span style=&quot;white-space: pre; font-size: 9px;&quot;&gt;6. 知识召回&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="710" y="450" width="60" height="10" as="geometry" />
         </mxCell>
       </root>
