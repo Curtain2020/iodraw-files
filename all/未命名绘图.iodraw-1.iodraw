@@ -123,6 +123,9 @@
         <mxCell id="Z_srWrKYihYJOAj4rwDz-39" value="📤 阶段4: 行为输出与记忆更新" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="740" y="600" width="170" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Z_srWrKYihYJOAj4rwDz-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z_srWrKYihYJOAj4rwDz-40" target="Z_srWrKYihYJOAj4rwDz-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Z_srWrKYihYJOAj4rwDz-40" value="🎭 数字人驱动接口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="769" y="630" width="112" height="40" as="geometry" />
         </mxCell>
