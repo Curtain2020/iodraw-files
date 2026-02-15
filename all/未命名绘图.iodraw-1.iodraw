@@ -132,6 +132,9 @@
             <mxPoint x="680" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Z_srWrKYihYJOAj4rwDz-42" value="&lt;div style=&quot;color: #d1d3db;background-color: #1a1b1d;font-family: &#39;JetBrains Mono&#39;, Menlo, Monaco, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 13px;line-height: 22px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #d1d3db;&quot;&gt;11a. 驱动数字人&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="590" width="140" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
