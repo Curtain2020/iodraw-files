@@ -104,13 +104,15 @@
         <mxCell id="Z_srWrKYihYJOAj4rwDz-34" value="&lt;div style=&quot;line-height: 22px;&quot;&gt;&lt;font size=&quot;1&quot; face=&quot;JetBrains Mono, Menlo, Monaco, Courier New, monospace&quot; color=&quot;#1a1a1a&quot;&gt;&lt;span style=&quot;white-space: pre; font-size: 9px;&quot;&gt;6. 知识召回/状态改写&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="713" y="450" width="60" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="Z_srWrKYihYJOAj4rwDz-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="Z_srWrKYihYJOAj4rwDz-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Z_srWrKYihYJOAj4rwDz-29" target="Z_srWrKYihYJOAj4rwDz-19">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="700" y="480" as="sourcePoint" />
             <mxPoint x="785" y="530" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="825" y="480" />
               <mxPoint x="750" y="480" />
               <mxPoint x="750" y="530" />
+              <mxPoint x="640" y="530" />
             </Array>
           </mxGeometry>
         </mxCell>
