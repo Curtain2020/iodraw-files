@@ -11,7 +11,7 @@
           <mxGeometry x="390" y="270" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YmROhvMCN7dqF26cxkyT-6" value="" style="verticalLabelPosition=bottom;align=center;dashed=0;html=1;verticalAlign=top;shape=mxgraph.pid.piping.pulsation_dampener;" vertex="1" parent="1">
-          <mxGeometry x="430" y="250" width="50" height="150" as="geometry" />
+          <mxGeometry x="410" y="90" width="50" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
