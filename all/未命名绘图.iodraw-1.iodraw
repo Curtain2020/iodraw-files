@@ -118,10 +118,10 @@
           <mxGeometry x="720" y="575" width="58" height="10" as="geometry" />
         </mxCell>
         <mxCell id="Z_srWrKYihYJOAj4rwDz-37" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="750" y="600" width="150" height="140" as="geometry" />
+          <mxGeometry x="740" y="600" width="160" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="Z_srWrKYihYJOAj4rwDz-39" value="🔗 阶段3: &quot;知识-认知&quot;融合" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="760" y="480" width="150" height="30" as="geometry" />
+        <mxCell id="Z_srWrKYihYJOAj4rwDz-39" value="📤 阶段4: 行为输出与记忆更新" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="600" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
