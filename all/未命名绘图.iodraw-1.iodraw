@@ -16,8 +16,8 @@
         <mxCell id="YmROhvMCN7dqF26cxkyT-13" value="" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0;size=30;position=0.17;base=40;" vertex="1" parent="1">
           <mxGeometry x="500" y="180" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="YmROhvMCN7dqF26cxkyT-14" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="430" y="250" width="60" height="30" as="geometry" />
+        <mxCell id="YmROhvMCN7dqF26cxkyT-14" value="记忆" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="405" y="230" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
