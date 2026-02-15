@@ -8,7 +8,7 @@
           <mxGeometry x="430" y="260" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YmROhvMCN7dqF26cxkyT-3" value="" style="shape=mxgraph.pid.feeders.proportional_feeder_(rotary_valve);html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="240" width="100" height="100" as="geometry" />
+          <mxGeometry x="520" y="240" width="140" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
