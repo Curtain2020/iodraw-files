@@ -120,8 +120,8 @@
         <mxCell id="Z_srWrKYihYJOAj4rwDz-37" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="750" y="600" width="150" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="Z_srWrKYihYJOAj4rwDz-38" value="&lt;div style=&quot;color: #d1d3db;background-color: #1a1b1d;font-family: &#39;JetBrains Mono&#39;, Menlo, Monaco, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 13px;line-height: 22px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #d1d3db;&quot;&gt;阶段4: 行为输出与记忆更新&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="740" width="200" height="50" as="geometry" />
+        <mxCell id="Z_srWrKYihYJOAj4rwDz-39" value="🔗 阶段3: &quot;知识-认知&quot;融合" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="480" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
