@@ -22,6 +22,12 @@
         <mxCell id="YmROhvMCN7dqF26cxkyT-15" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;理解&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="445" y="245" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="YmROhvMCN7dqF26cxkyT-43" value="Entity" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="150" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="YmROhvMCN7dqF26cxkyT-44" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="YmROhvMCN7dqF26cxkyT-43">
+          <mxGeometry y="50" width="160" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
