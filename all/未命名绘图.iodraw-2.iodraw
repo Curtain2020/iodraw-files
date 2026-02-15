@@ -7,8 +7,11 @@
         <mxCell id="nFc40yfXUyiPPUYHa5VC-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="180" width="240" height="450" as="geometry" />
         </mxCell>
-        <mxCell id="nFc40yfXUyiPPUYHa5VC-3" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=8.4;dy=14;size=5;boundedLbl=1;rotation=-180;" vertex="1" parent="1">
+        <mxCell id="nFc40yfXUyiPPUYHa5VC-3" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=8.4;dy=14;size=5;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="200" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nFc40yfXUyiPPUYHa5VC-4" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=8.4;dy=14;size=5;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="210" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
