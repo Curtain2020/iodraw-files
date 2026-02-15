@@ -60,6 +60,9 @@
         <mxCell id="Z_srWrKYihYJOAj4rwDz-18" value="💾 长期记忆模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="450" y="450" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Z_srWrKYihYJOAj4rwDz-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z_srWrKYihYJOAj4rwDz-19" target="Z_srWrKYihYJOAj4rwDz-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Z_srWrKYihYJOAj4rwDz-19" value="🛠️ 工具库" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="590" y="450" width="100" height="40" as="geometry" />
         </mxCell>
