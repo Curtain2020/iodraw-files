@@ -66,6 +66,9 @@
         <mxCell id="Z_srWrKYihYJOAj4rwDz-19" value="🛠️ 工具库" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="590" y="450" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Z_srWrKYihYJOAj4rwDz-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z_srWrKYihYJOAj4rwDz-20" target="Z_srWrKYihYJOAj4rwDz-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Z_srWrKYihYJOAj4rwDz-20" value="📝 公共短期&lt;br&gt;记忆模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="520" y="680" width="100" height="50" as="geometry" />
         </mxCell>
