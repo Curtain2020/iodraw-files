@@ -31,7 +31,7 @@
         <mxCell id="Z_srWrKYihYJOAj4rwDz-12" value="&lt;div style=&quot;line-height: 22px;&quot;&gt;&lt;font size=&quot;1&quot; face=&quot;JetBrains Mono, Menlo, Monaco, Courier New, monospace&quot; color=&quot;#1a1a1a&quot;&gt;&lt;span style=&quot;white-space: pre; font-size: 9px;&quot;&gt;2. 消息传递&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="575" y="275" width="60" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="Z_srWrKYihYJOAj4rwDz-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Z_srWrKYihYJOAj4rwDz-13" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
           <mxGeometry x="430" y="360" width="270" height="380" as="geometry" />
         </mxCell>
       </root>
