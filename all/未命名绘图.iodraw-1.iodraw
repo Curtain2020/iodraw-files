@@ -10,8 +10,11 @@
         <mxCell id="YmROhvMCN7dqF26cxkyT-1" value="比值的定义" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="390" y="270" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YmROhvMCN7dqF26cxkyT-12" value="" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
-          <mxGeometry x="385" y="130" width="120" height="80" as="geometry" />
+        <mxCell id="YmROhvMCN7dqF26cxkyT-12" value="" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.46;" vertex="1" parent="1">
+          <mxGeometry x="385" y="140" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YmROhvMCN7dqF26cxkyT-13" value="" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.46;" vertex="1" parent="1">
+          <mxGeometry x="395" y="150" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
