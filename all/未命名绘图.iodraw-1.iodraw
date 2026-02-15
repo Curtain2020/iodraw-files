@@ -34,8 +34,8 @@
         <mxCell id="Z_srWrKYihYJOAj4rwDz-13" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
           <mxGeometry x="430" y="360" width="270" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="Z_srWrKYihYJOAj4rwDz-14" value="📥 阶段1: 意图识别" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="510" y="360" width="110" height="30" as="geometry" />
+        <mxCell id="Z_srWrKYihYJOAj4rwDz-14" value="🧠 阶段2: 核心处理与上下文检索" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="515" y="370" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
