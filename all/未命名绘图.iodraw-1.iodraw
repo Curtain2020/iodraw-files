@@ -67,7 +67,7 @@
         <mxCell id="YmROhvMCN7dqF26cxkyT-65" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="600" y="-40" width="340" height="600" as="geometry" />
         </mxCell>
-        <mxCell id="YmROhvMCN7dqF26cxkyT-66" value="基础元数据&lt;br&gt;&lt;div&gt;名称：比值的定义&amp;nbsp;&lt;/div&gt;&lt;div&gt;学段：小学六年级&lt;/div&gt;&lt;div&gt;描述：比表示两个数之间的倍数关系，把比的前&lt;span style=&quot;background-color: initial;&quot;&gt;项以后项，所得结果叫比值。比值是一个数值，&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;表示前项是后项的几倍或几分之几。&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YmROhvMCN7dqF26cxkyT-66" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;基础元数据&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;名称：比值的定义&amp;nbsp;&lt;/div&gt;&lt;div&gt;学段：小学六年级&lt;/div&gt;&lt;div&gt;描述：比表示两个数之间的倍数关系，把比的前&lt;span style=&quot;background-color: initial;&quot;&gt;项以后项，所得结果叫比值。比值是一个数值，&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;表示前项是后项的几倍或几分之几。&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="-20" width="280" height="170" as="geometry" />
         </mxCell>
       </root>
