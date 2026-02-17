@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="0nKTxMBgQGIrXxznAilv">
-    <mxGraphModel dx="679" dy="430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1406" dy="891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -55,7 +55,7 @@
         <mxCell id="YmROhvMCN7dqF26cxkyT-62" value="比值的分数表示" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="360" y="460" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="YmROhvMCN7dqF26cxkyT-63" value="" style="endArrow=classic;startArrow=none;html=1;rounded=0;startFill=0;curved=1;exitX=0.216;exitY=0.882;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.906;entryY=0.212;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YmROhvMCN7dqF26cxkyT-54" target="YmROhvMCN7dqF26cxkyT-62">
+        <mxCell id="YmROhvMCN7dqF26cxkyT-63" value="" style="endArrow=classic;startArrow=none;html=1;rounded=0;startFill=0;curved=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.906;entryY=0.212;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YmROhvMCN7dqF26cxkyT-54" target="YmROhvMCN7dqF26cxkyT-62">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="435" y="341" as="sourcePoint" />
             <mxPoint x="479" y="381" as="targetPoint" />
