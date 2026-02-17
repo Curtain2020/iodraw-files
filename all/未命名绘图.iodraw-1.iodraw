@@ -20,7 +20,7 @@
           <mxGeometry x="460" y="360" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="YmROhvMCN7dqF26cxkyT-55" value="比和分数的关系" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="290" y="360" width="70" height="70" as="geometry" />
+          <mxGeometry x="270" y="360" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="YmROhvMCN7dqF26cxkyT-56" value="" style="endArrow=classic;startArrow=none;html=1;rounded=0;startFill=0;curved=1;exitX=0.935;exitY=0.724;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="YmROhvMCN7dqF26cxkyT-51" target="YmROhvMCN7dqF26cxkyT-54">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -53,7 +53,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YmROhvMCN7dqF26cxkyT-62" value="比值的分数表示" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="367.5" y="430" width="70" height="70" as="geometry" />
+          <mxGeometry x="360" y="460" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="YmROhvMCN7dqF26cxkyT-63" value="" style="endArrow=classic;startArrow=none;html=1;rounded=0;startFill=0;curved=1;exitX=0.935;exitY=0.724;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="435" y="341" as="sourcePoint" />
+            <mxPoint x="479" y="381" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
