@@ -19,16 +19,16 @@
         <mxCell id="YmROhvMCN7dqF26cxkyT-55" value="比和分数的关系" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="290" y="360" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="YmROhvMCN7dqF26cxkyT-56" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.976;exitY=0.414;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="YmROhvMCN7dqF26cxkyT-51" target="YmROhvMCN7dqF26cxkyT-54">
+        <mxCell id="YmROhvMCN7dqF26cxkyT-56" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="YmROhvMCN7dqF26cxkyT-54">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="420" y="330" as="sourcePoint" />
+            <mxPoint x="428" y="309" as="sourcePoint" />
             <mxPoint x="470" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YmROhvMCN7dqF26cxkyT-57" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.224;entryY=0.148;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YmROhvMCN7dqF26cxkyT-51" target="YmROhvMCN7dqF26cxkyT-52">
+        <mxCell id="YmROhvMCN7dqF26cxkyT-57" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YmROhvMCN7dqF26cxkyT-51" target="YmROhvMCN7dqF26cxkyT-52">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="438" y="319" as="sourcePoint" />
-            <mxPoint x="503" y="289" as="targetPoint" />
+            <mxPoint x="470" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
