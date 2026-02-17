@@ -19,7 +19,7 @@
         <mxCell id="YmROhvMCN7dqF26cxkyT-55" value="比和分数的关系" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="290" y="360" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="YmROhvMCN7dqF26cxkyT-56" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;startFill=1;" edge="1" parent="1" target="YmROhvMCN7dqF26cxkyT-54">
+        <mxCell id="YmROhvMCN7dqF26cxkyT-56" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;startFill=1;curved=1;" edge="1" parent="1" target="YmROhvMCN7dqF26cxkyT-54">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="428" y="309" as="sourcePoint" />
             <mxPoint x="470" y="280" as="targetPoint" />
@@ -29,6 +29,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="438" y="319" as="sourcePoint" />
             <mxPoint x="470" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YmROhvMCN7dqF26cxkyT-58" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="433" y="346" as="sourcePoint" />
+            <mxPoint x="480" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
