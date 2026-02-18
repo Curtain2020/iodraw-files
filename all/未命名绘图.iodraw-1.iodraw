@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="0nKTxMBgQGIrXxznAilv">
-    <mxGraphModel dx="1036" dy="1484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="234" dy="976" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -112,10 +112,10 @@
         <mxCell id="YmROhvMCN7dqF26cxkyT-79" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;高阶认知层（C）&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;5.&amp;nbsp;评价&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Q：&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;有同学认为：“比值就是比的前项除以后项得到的结果，所以只要是除法算出的商，都可以叫做比值。” 请结合比值定义判断正误并说明理由。&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;A：这句话不正确。比值是比的前项除以后项所得的商，必须是两个数构成比的关系时，相除的商才能叫比值，不是任意除法的商都叫比值。&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;6. 创造&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Q：&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;设计一款能帮同学理解比值定义的创意游戏，说明核心规则与获胜逻辑。&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;A：&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;创意游戏 “比值盲盒挑战”：分组抽取含两种物品的盲盒（如 4 块积木、8 颗弹珠），需快速算出物品数量比值解锁线索，线索指引寻找下一组 “隐藏物品”，再次计算比值验证。按完成速&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp;度和比值正确率积分，积分最高组获胜。&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#BDDEFF;strokeColor=#007FFF;fillStyle=auto;" vertex="1" parent="1">
           <mxGeometry x="620" y="470" width="340" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="YmROhvMCN7dqF26cxkyT-80" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=2;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="YmROhvMCN7dqF26cxkyT-77">
+        <mxCell id="YmROhvMCN7dqF26cxkyT-80" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=2;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="580" y="252" as="sourcePoint" />
-            <mxPoint x="630" y="179" as="targetPoint" />
+            <mxPoint x="585" y="252" as="sourcePoint" />
+            <mxPoint x="615" y="251.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
