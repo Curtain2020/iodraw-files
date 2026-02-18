@@ -8,57 +8,57 @@
           <mxGeometry x="230" y="210" width="340" height="420" as="geometry" />
         </mxCell>
         <mxCell id="YmROhvMCN7dqF26cxkyT-51" value="比值的定义" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="360" y="287" width="70" height="70" as="geometry" />
+          <mxGeometry x="360" y="331" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="YmROhvMCN7dqF26cxkyT-52" value="比的各项" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="480" y="237" width="70" height="70" as="geometry" />
+          <mxGeometry x="480" y="281" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="YmROhvMCN7dqF26cxkyT-53" value="因数和积的关系" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="240" y="237" width="70" height="70" as="geometry" />
+          <mxGeometry x="240" y="281" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="YmROhvMCN7dqF26cxkyT-54" value="比值的表示" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="460" y="367" width="70" height="70" as="geometry" />
+          <mxGeometry x="460" y="411" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="YmROhvMCN7dqF26cxkyT-55" value="比和分数的关系" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="270" y="367" width="70" height="70" as="geometry" />
+          <mxGeometry x="270" y="411" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="YmROhvMCN7dqF26cxkyT-56" value="" style="endArrow=classic;startArrow=none;html=1;rounded=0;startFill=0;curved=1;exitX=0.935;exitY=0.724;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="YmROhvMCN7dqF26cxkyT-51" target="YmROhvMCN7dqF26cxkyT-54">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="428" y="316" as="sourcePoint" />
-            <mxPoint x="470" y="287" as="targetPoint" />
+            <mxPoint x="428" y="360" as="sourcePoint" />
+            <mxPoint x="470" y="331" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YmROhvMCN7dqF26cxkyT-57" value="" style="endArrow=none;startArrow=classic;html=1;rounded=0;entryX=0.029;entryY=0.64;entryDx=0;entryDy=0;endFill=0;entryPerimeter=0;" edge="1" parent="1" source="YmROhvMCN7dqF26cxkyT-51" target="YmROhvMCN7dqF26cxkyT-52">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="438" y="326" as="sourcePoint" />
-            <mxPoint x="470" y="367" as="targetPoint" />
+            <mxPoint x="438" y="370" as="sourcePoint" />
+            <mxPoint x="470" y="411" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YmROhvMCN7dqF26cxkyT-58" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.043;entryY=0.319;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.938;exitY=0.748;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="YmROhvMCN7dqF26cxkyT-53" target="YmROhvMCN7dqF26cxkyT-51">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="310" y="287" as="sourcePoint" />
-            <mxPoint x="480" y="387" as="targetPoint" />
+            <mxPoint x="310" y="331" as="sourcePoint" />
+            <mxPoint x="480" y="431" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YmROhvMCN7dqF26cxkyT-59" value="" style="endArrow=classic;startArrow=none;html=1;rounded=0;startFill=0;" edge="1" parent="1" source="YmROhvMCN7dqF26cxkyT-51" target="YmROhvMCN7dqF26cxkyT-55">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="433" y="353" as="sourcePoint" />
-            <mxPoint x="480" y="387" as="targetPoint" />
+            <mxPoint x="433" y="397" as="sourcePoint" />
+            <mxPoint x="480" y="431" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YmROhvMCN7dqF26cxkyT-61" value="" style="endArrow=none;startArrow=classic;html=1;rounded=0;endFill=0;exitX=0.64;exitY=0.025;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="YmROhvMCN7dqF26cxkyT-54">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="433" y="353" as="sourcePoint" />
-            <mxPoint x="515" y="307" as="targetPoint" />
+            <mxPoint x="433" y="397" as="sourcePoint" />
+            <mxPoint x="515" y="351" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YmROhvMCN7dqF26cxkyT-62" value="比值的分数表示" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="360" y="467" width="70" height="70" as="geometry" />
+          <mxGeometry x="360" y="511" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="YmROhvMCN7dqF26cxkyT-63" value="" style="endArrow=classic;startArrow=none;html=1;rounded=0;startFill=0;curved=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.906;entryY=0.212;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YmROhvMCN7dqF26cxkyT-54" target="YmROhvMCN7dqF26cxkyT-62">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="435" y="348" as="sourcePoint" />
-            <mxPoint x="479" y="388" as="targetPoint" />
+            <mxPoint x="435" y="392" as="sourcePoint" />
+            <mxPoint x="479" y="432" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YmROhvMCN7dqF26cxkyT-64" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
