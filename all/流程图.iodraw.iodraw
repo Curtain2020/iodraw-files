@@ -63,10 +63,10 @@
         <mxCell id="Z_srWrKYihYJOAj4rwDz-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="1" source="Z_srWrKYihYJOAj4rwDz-19" target="Z_srWrKYihYJOAj4rwDz-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Z_srWrKYihYJOAj4rwDz-19" value="🛠️ 工具库" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="Z_srWrKYihYJOAj4rwDz-19" value="工具库" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="590" y="450" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Z_srWrKYihYJOAj4rwDz-20" value="📝 公共短期&lt;br&gt;记忆模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="Z_srWrKYihYJOAj4rwDz-20" value="公共短期&lt;br&gt;记忆模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="520" y="684" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Z_srWrKYihYJOAj4rwDz-23" value="&lt;div style=&quot;line-height: 22px;&quot;&gt;&lt;font size=&quot;1&quot; face=&quot;JetBrains Mono, Menlo, Monaco, Courier New, monospace&quot; color=&quot;#1a1a1a&quot;&gt;&lt;span style=&quot;white-space: pre; font-size: 9px;&quot;&gt;4a. 检索记忆&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -120,7 +120,7 @@
         <mxCell id="Z_srWrKYihYJOAj4rwDz-37" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="730" y="600" width="190" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="Z_srWrKYihYJOAj4rwDz-39" value="📤 阶段4: 行为输出与记忆更新" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="Z_srWrKYihYJOAj4rwDz-39" value="阶段4: 行为输出与记忆更新" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="740" y="600" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z_srWrKYihYJOAj4rwDz-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Z_srWrKYihYJOAj4rwDz-40" target="Z_srWrKYihYJOAj4rwDz-43" edge="1">
