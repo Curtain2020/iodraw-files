@@ -22,7 +22,7 @@
         <mxCell id="8A_EihP-lJquK-x1yUaW-6" value="Qwen-Max" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="810" y="310" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8A_EihP-lJquK-x1yUaW-7" value="学生(工具调用):&lt;div&gt;recall_knowledge_vector_tool({&quot;name&quot;:&quot;&lt;b&gt;比值的定义&lt;/b&gt;&quot;})&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="8A_EihP-lJquK-x1yUaW-7" value="学生:&lt;div&gt;recall_knowledge_vector_tool({&quot;name&quot;:&quot;&lt;b&gt;比值的定义&lt;/b&gt;&quot;})&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="130" y="530" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8A_EihP-lJquK-x1yUaW-8" value="学生(工具调用):&lt;div&gt;recall_knowledge_vector_tool({&quot;name&quot;:&quot;&lt;b&gt;比值的定义&lt;/b&gt;&quot;})&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
