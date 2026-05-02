@@ -26,7 +26,7 @@
           <mxGeometry x="710" y="450" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8A_EihP-lJquK-x1yUaW-10" value="系统(返回结果):&lt;div&gt;{&quot;node_name&quot;:&quot;比值的定义&quot;,&quot;status&quot;: [0, 0, 0]}&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="110" y="770" width="260" height="60" as="geometry" />
+          <mxGeometry x="130" y="690" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8A_EihP-lJquK-x1yUaW-12" value="系统(返回结果):&lt;div&gt;{&quot;name&quot;:&quot;比值的定义&quot;,&quot;index&quot;:0,&quot;value&quot;:1,&quot;result&quot;: &quot;success&quot;}&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="710" y="530" width="260" height="60" as="geometry" />
