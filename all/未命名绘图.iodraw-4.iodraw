@@ -25,7 +25,7 @@
         <mxCell id="8A_EihP-lJquK-x1yUaW-7" value="学生:&lt;div&gt;recall_knowledge_vector_tool({&quot;name&quot;:&quot;&lt;b&gt;比值的定义&lt;/b&gt;&quot;})&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="130" y="530" width="260" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8A_EihP-lJquK-x1yUaW-8" value="学生(工具调用):&lt;div&gt;recall_knowledge_vector_tool({&quot;name&quot;:&quot;&lt;b&gt;比值的定义&lt;/b&gt;&quot;})&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="8A_EihP-lJquK-x1yUaW-8" value="学生(工具调用):&lt;div&gt;update_knowledge_vector tool({&quot;name&quot;:&quot;比值的定义&quot;&quot;index&quot;: 0, &quot;value&quot;: 1})&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="710" y="450" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8A_EihP-lJquK-x1yUaW-9" value="学生(工具调用):&lt;div&gt;recall_knowledge_vector_tool({&quot;name&quot;:&quot;&lt;b&gt;比值的意义&lt;/b&gt;&quot;})&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
