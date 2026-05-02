@@ -31,7 +31,7 @@
         <mxCell id="8A_EihP-lJquK-x1yUaW-12" value="系统(返回结果):&lt;div&gt;{&quot;name&quot;:&quot;比值的定义&quot;,&quot;index&quot;:0,&quot;value&quot;:1,&quot;result&quot;: &quot;success&quot;}&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="710" y="530" width="260" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8A_EihP-lJquK-x1yUaW-13" value="学生：&lt;span style=&quot;background-color: initial;&quot;&gt;老师,比值的定义我还不太明白,能给我讲解一下吗?&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="8A_EihP-lJquK-x1yUaW-13" value="学生：我懂了!比值就是用比号前面的数除以比号后面的数得到的结果。就像4比2，算出来就是2，这个2就是它们的比值。谢谢老师!" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="110" y="850" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8A_EihP-lJquK-x1yUaW-14" value="学生：我懂了!就是用比号前面的数除以比号后面的数算出来的结果就是比值。比如6比3，6除以3等于2，2就是它们的比值!" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
