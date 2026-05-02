@@ -16,7 +16,7 @@
         <mxCell id="8A_EihP-lJquK-x1yUaW-4" value="教师：我们先看“比”这个概念，比如 6:3，它有前项和后项两个数，比值肯定和这两个数的运算有关，你想一下，是那种运算呢?" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="420" y="370" width="260" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8A_EihP-lJquK-x1yUaW-5" value="教师：教师:我们先看“比”这个概念，比如 6:3，它有前项和后项两个数，比值肯定和这两个数的运算有关，你想一下，是那种运算呢?" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="8A_EihP-lJquK-x1yUaW-5" value="教师：我们先看“比”这个概念，比如 6:3，它有前项和后项两个数，比值肯定和这两个数的运算有关，你想一下，是那种运算呢?" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="710" y="370" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8A_EihP-lJquK-x1yUaW-6" value="Qwen-Max" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
@@ -49,7 +49,7 @@
         <mxCell id="8A_EihP-lJquK-x1yUaW-17" value="学生：&lt;span style=&quot;background-color: initial;&quot;&gt;哦，我想想，是不是前面的数除以后面的数?那就&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;是6除以3，对吧?&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="420" y="450" width="260" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8A_EihP-lJquK-x1yUaW-19" value="教师：很好，“比值”其实特别简单，就是用比号前面的那个数，除以比号后面的那个数，最后算出来的那个结果，就叫作比值。比如6比3，我们就用6除以 3，得出来的 2 就是它们的比值。你学会了吗?" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="8A_EihP-lJquK-x1yUaW-19" value="教师：很好，“比值”其实特别简单，就是用比号前面的那个数，除以比号后面的那个数，最后算出来的那个结果，就叫作比值。比如6比3，我们就用6除以 3，得出来的 2 就是它们的比值。" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="420" y="530" width="260" height="60" as="geometry" />
         </mxCell>
       </root>
