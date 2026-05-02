@@ -38,7 +38,7 @@
           <mxGeometry x="110" y="850" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8A_EihP-lJquK-x1yUaW-14" value="学生：老师，这个我还不太明白，能给我讲解一下吗?" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="420" y="684" width="260" height="60" as="geometry" />
+          <mxGeometry x="420" y="610" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8A_EihP-lJquK-x1yUaW-15" value="学生：哦，我想起来了，是除法!6:3的比值就是用前项除以后项，所以是6除以3等于2。我明白了!" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="710" y="610" width="260" height="60" as="geometry" />
