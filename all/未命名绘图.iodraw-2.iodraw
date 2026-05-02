@@ -34,6 +34,9 @@
         <mxCell id="ceWI7mZRB7BarSecKwSd-12" value="学生(工具调用):&lt;div&gt;recall_knowledge_vector_tool({&quot;name&quot;:&quot;&lt;b&gt;比值的意义&lt;/b&gt;&quot;})&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="420" y="450" width="260" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ceWI7mZRB7BarSecKwSd-13" value="学生(工具调用):&lt;div&gt;recall_knowledge_vector_tool({&quot;name&quot;:&quot;&lt;b&gt;比值的定义&lt;/b&gt;&quot;})&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="140" y="460" width="260" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
